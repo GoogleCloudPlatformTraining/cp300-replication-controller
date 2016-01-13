@@ -1,2 +1,2 @@
-# cp300-replication-controller
-Used in the CP300 course - GKE replication controller.
+# cp306-replication-controller
+Used in the CP306 course - GKE replication controller.
